@@ -4,4 +4,8 @@ this is first branch change and updated rials
 this is for git clean
 
 once the time
+<<<<<<< Updated upstream
 
+=======
+this is for stash
+>>>>>>> Stashed changes

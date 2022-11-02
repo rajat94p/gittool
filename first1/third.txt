@@ -1,0 +1,2 @@
+this is use for merge and rebash on third_branch
+this is add to all branch for stash
